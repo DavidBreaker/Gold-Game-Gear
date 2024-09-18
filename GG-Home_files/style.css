@@ -322,6 +322,11 @@ body {
     margin-bottom: 10px;
 }
 
+.feature-item img[src="https://www.grupoecolog.com.br/wp-content/uploads/2022/03/INICIO.png"] {
+    width: 80px; 
+    height: 80px; 
+
+
 .mission {
     background-color: #800080;
     padding: 50px 20px;
