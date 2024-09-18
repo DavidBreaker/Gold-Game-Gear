@@ -323,8 +323,8 @@ body {
 }
 
 .feature-item img[src="https://www.grupoecolog.com.br/wp-content/uploads/2022/03/INICIO.png"] {
-    width: 80px; 
-    height: 80px; 
+    width: 100px; 
+    height: auto; 
     object-fit: contain; 
 }
 
